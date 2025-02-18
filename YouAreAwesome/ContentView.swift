@@ -20,7 +20,6 @@ struct ContentView: View {
                 .fontWeight(.heavy)
                 .foregroundStyle(.red)
         }
-        //new
         .padding()
     
     }
